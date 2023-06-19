@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Minghui Ye"
 title_separator          : "-"
-name                     : &name ""
-description              : &description "Reinforcement Learning for Robotics"
+name                     : &name "Minghui Ye"
+description              : &description "Student"
 url                      : "https://yeminghui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yeminghui/yeminghui.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Minghui Ye"
   name2            : "叶明辉"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Looking for RA/PhD positions in Robotics/Reinforcement Learning/Computer Vision"
   location         : "Guangzhou, China"
   employer         :

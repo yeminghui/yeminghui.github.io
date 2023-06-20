@@ -13,7 +13,7 @@ I recently received the bachelor degree in Robot Engineering from [Guangzhou Uni
 ### <span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>
 
 
-## Research Interests
+# Research Interests
         
 I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including but not limited to: 
 - Manipulation
@@ -24,23 +24,21 @@ I am generally interested in reinforcement learning(RL) and its application to r
 - Large Language Models for Robotic Control
 
 
-## Publications
-MobiP: A Lightweight model for Driving Perception using MobileNet
-**Minghui Ye**, Jinhua Zhang\*
+# Publications
+**MobiP: A Lightweight model for Driving Perception using MobileNet**  
+<font color=Blue>*Minghui Ye*</font>, Jinhua Zhang\*
 Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
 
-A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem
-**Minghui Ye**, Yuanqi Fan, Xue-Feng Yuan\*
+**A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
+<font color=Blue>*Minghui Ye*</font>, Yuanqi Fan, Xue-Feng Yuan\*
 Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[code]](https://github.com/yeminghui/Inv_learning)
 
 
 ## Technical Skills
 
-[//]: # (- **Programming Languages** Python, C, MATLAB, LATEX)
-
-[//]: # (- **Robotics Hardware**     ABB IRB 1600, Arduino, Raspberry Pi)
-
-[//]: # (- **Computer Vision**       OpenCV, PyTorch, Tensorflow)
+- **Programming Languages** <div style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</div>
+- **Robotics Hardware**     <div style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</div>
+- **Computer Vision**       <div style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</div>
 <ul>
     <li> 
         <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
@@ -68,4 +66,4 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 
 
-Last update: 06/20/2023
+Last updated: 06/20/2023

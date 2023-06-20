@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-## About Me
+  
+<!-- ## About Me -->
 I am joining [Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) as 
 a tenure-track assistant professor in 2023 Fall. I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
 
@@ -18,7 +17,7 @@ a tenure-track assistant professor in 2023 Fall. I obtained my PhD from [Carnegi
 ### <span style="color:red">Prospective Students:</span>
 I am always actively looking for strong and self-motivated students to join us! I have multiple PhD/Mphil openings starting in 2024 Fall at HKUST, as well as RA positions starting anytime. If you are interested, please drop me an email with your CV (the email subject line should include "Prospective PhD/Mphil/RA Student"). For 2024 Fall PhD/Mphil applicants, I encourage you to reach out as soon as possible to ensure consideration. I may not be able to respond to all emails, sorry. 
 
-## Research
+## Research Interests
         
 I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models: 
 - parameter-efficient tuning -- efficiency, modular, composition 

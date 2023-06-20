@@ -15,7 +15,7 @@ I recently received the bachelor degree in Robot Engineering from [Guangzhou Uni
 
 ## Research Interests
         
-I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a research proposal on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including but not limited to: 
+I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including but not limited to: 
 - Manipulation
 - Offline Reinforcement Learning
 - Reinforcement Learning from Human Feedback
@@ -25,20 +25,41 @@ I am generally interested in reinforcement learning(RL) and its application to r
 
 
 ## Publications
-
-- MobiP: A Lightweight model for Driving Perception using MobileNet
+MobiP: A Lightweight model for Driving Perception using MobileNet
 **Minghui Ye**, Jinhua Zhang\*
 Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
 
-- A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem
+A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem
 **Minghui Ye**, Yuanqi Fan, Xue-Feng Yuan\*
-Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[github]](https://github.com/yeminghui/Inv_learning)
+Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[code]](https://github.com/yeminghui/Inv_learning)
 
 
 ## Technical Skills
-- **Programming Languages** Python, C, MATLAB, LATEX
-- **Robotics Hardware**     ABB IRB 1600, Arduino, Raspberry Pi
-- **Computer Vision**       OpenCV, PyTorch, Tensorflow
+
+[//]: # (- **Programming Languages** Python, C, MATLAB, LATEX)
+
+[//]: # (- **Robotics Hardware**     ABB IRB 1600, Arduino, Raspberry Pi)
+
+[//]: # (- **Computer Vision**       OpenCV, PyTorch, Tensorflow)
+<ul>
+    <li> 
+        <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
+        <span style="float:right;width:65%;font-size: 14px;">Python, C/C++, Java, MATLAB, LATEX</span> 
+    </li>
+    <li> 
+        <span style="float:left;width:35%;"> <strong>Robotics Hardware</strong></span> 
+        <span style="float:right;width:65%;font-size: 14px;">Fetch mobile manipulator, KUKA iiwa 7 R800, UR5e</span>
+    </li>
+    <li> 
+        <span style="float:left;width:35%;"><strong>Robotic Programming</strong></span>
+        <span style="float:right;width:65%;font-size: 14px;">ROS, Gazebo, Rviz, MoveIt!</span>
+    </li>
+    <li>
+        <span style="float:left;width:35%;"><strong>Computer Vision</strong></span>
+        <span style="float:right;width:65%;font-size: 14px;">OpenCV, PyTorch, Tensorflow</span>
+    </li>
+</ul>
+
 
 ## Honors and Awards
 - The Third prize in 12th National College Students Mathematics Competition
@@ -47,4 +68,4 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 
 
-Last updata(06/20/2023)
+Last update: 06/20/2023

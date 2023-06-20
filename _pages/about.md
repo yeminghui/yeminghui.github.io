@@ -60,13 +60,15 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 
 ## Extracurricular Activity
-**Speaker at the 20th National Conference on Physical Gas Dynamics**  
- <font size=2> Gave presentation on the work "inverse learning of molecular parameters of viscoelastic constitutive model"</font>
+**Speaker at the 20th National Conference on Physical Gas Dynamics**
+ <font size=3> Gave presentation on the work "inverse learning of molecular parameters of viscoelastic constitutive model"</font>
 
-**"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**  
-  <font size=2> Helped my supervisor to write comments for two papers on the topic of machine learning</font>
+**"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**
+  <font size=3> Helped the professor to write comments for two papers on the topic of machine learning</font>
   
-  
+<br />
+<br />
+<br />
   
 
 Last updated: 06/20/2023

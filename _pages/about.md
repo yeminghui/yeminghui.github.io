@@ -9,39 +9,30 @@ redirect_from:
 ---
   
 <!-- ## About Me -->
-I am joining [Hong Kong University of Science and Technology](https://hkust.edu.hk), [Department of Computer Science and Engineering](https://cse.hkust.edu.hk) as 
-a tenure-track assistant professor in 2023 Fall. I obtained my PhD from [Carnegie Mellon University](https://www.cmu.edu), [Language Technologies Institute](https://www.lti.cs.cmu.edu) in the [School of Computer Science](https://www.cs.cmu.edu) in 2022, where I was co-advised by [Graham Neubig](http://www.phontron.com) and [Taylor Berg-Kirkpatrick](https://cseweb.ucsd.edu/~tberg/). Before that, I received the bachelor degree in Electronic Engineering from Shanghai Jiao Tong University in 2017. I also spent some time at Facebook AI Research (2019) and Salesforce Research (2020).  
+I recently received the bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on self-driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).
 
-<!-- I have interned at Facebook AI Research (2019), working with [Jiatao Gu](https://jiataogu.me) and [Marc'Aurelio Ranzato](https://ranzato.github.io); interned at Salesforce Research (2020), working with [Bryan McCann](https://bmccann.github.io); and visited Machine Learning Department of Carnegie Mellon University (2016), working with [Zhiting Hu](http://zhiting.ucsd.edu) and [Eric Xing](https://www.cs.cmu.edu/~epxing/).  -->
-
-### <span style="color:red">Prospective Students:</span>
-I am always actively looking for strong and self-motivated students to join us! I have multiple PhD/Mphil openings starting in 2024 Fall at HKUST, as well as RA positions starting anytime. If you are interested, please drop me an email with your CV (the email subject line should include "Prospective PhD/Mphil/RA Student"). For 2024 Fall PhD/Mphil applicants, I encourage you to reach out as soon as possible to ensure consideration. I may not be able to respond to all emails, sorry. 
+### <span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month. :</span>
 
 ## Research Interests
         
-I am generally interested in natural language processing and machine learning. Current interests are on several aspects around large language models: 
-- parameter-efficient tuning -- efficiency, modular, composition 
-- multi-step reasoning
-- factuality -- method and evaluation
-- evaluation of foundation models -- knowledge, reasoning, tool use, etc.
-- data-centric approaches 
-- language model as agent
+I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a research proposal on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including: 
+- Manipulation
+- Offline Reinforcement Learning
+- Reinforcement Learning from Human Feedback
+- Vision-Based Control
+- Robot Perception
+- Large Language Models for Robotic Control
 
 
-<!-- My research covers (latent-variable) generative models, controllable text generation, efficient text generation, and non-parametric language models.  -->
+## Publications
 
+**MobiP: A Lightweight model for Driving Perception using MobileNet**  
+**Minghui Ye**, Jinhua Zhang\*
+Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
 
-# Publications
-Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en&authuser=1).  
-\* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
-
-**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
-Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
-
-**Mega: Moving Average Equipped Gated Attention**  
-Xuezhe Ma\*, Chunting Zhou\*, Xiang Kong, *Junxian He*, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer  
-ICLR 2023. [[arxiv]](https://arxiv.org/abs/2209.10655)
+**A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
+**Minghui Ye**, Yuanqi Fan, Xue-Feng Yuan\*
+Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[github]](https://github.com/yeminghui/Inv_learning)
 
 
 # Service

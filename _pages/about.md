@@ -36,35 +36,14 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 
 ## Technical Skills
-
-- **Programming Languages** <span style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</span>
-- **Robotics Hardware**     <span style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</span>
-- **Computer Vision**       <span style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</span>
-
--   [ **Programming Languages**]{style="float:left;width:35%;"} [Python,
-    C/C++, Java, MATLAB,
-    LATEX]{style="float:right;width:65%;font-size: 14px;"}
--   [ **Robotics Hardware**]{style="float:left;width:35%;"} [Fetch
-    mobile manipulator, KUKA iiwa 7 R800,
-    UR5e]{style="float:right;width:65%;font-size: 14px;"}
--   [**Robotic Programming**]{style="float:left;width:35%;"} [ROS,
-    Gazebo, Rviz,
-    MoveIt!]{style="float:right;width:65%;font-size: 14px;"}
--   [**Computer Vision**]{style="float:left;width:35%;"} [OpenCV,
-    PyTorch, Tensorflow]{style="float:right;width:65%;font-size: 14px;"}
-
 <ul>
     <li> 
         <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
-        <span style="float:right;width:65%;font-size: 15px;">Python, C/C++, Java, MATLAB, LATEX</span> 
+        <span style="float:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</span> 
     </li>
     <li> 
         <span style="float:left;width:35%;"> <strong>Robotics Hardware</strong></span> 
-        <span style="float:right;width:65%;font-size: 16px;">Fetch mobile manipulator, KUKA iiwa 7 R800, UR5e</span>
-    </li>
-    <li> 
-        <span style="float:left;width:35%;"><strong>Robotic Programming</strong></span>
-        <span style="float:right;width:65%;font-size: 14px;">ROS, Gazebo, Rviz, MoveIt!</span>
+        <span style="float:right;width:65%;font-size: 16px;">ABB IRB 1600, Arduino, Raspberry Pi</span>
     </li>
     <li>
         <span style="float:left;width:35%;"><strong>Computer Vision</strong></span>
@@ -73,12 +52,20 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 </ul>
 
 
-
 ## Honors and Awards
-- The Third prize in 12th National College Students Mathematics Competition
+- 12th National College Students Mathematics Competition(Third prize, Top 15%)  <font align="right">2020</font>
 - The Second-class Scholarship in Guangzhou University, twice
 - Guangzhou University Intelligent Manufacturing Innovation Program Membership 
 
 
+## Extracurricular Activity
+**Speaker at the 20th National Conference on Physical Gas Dynamics**
+ Gave presentation on the work "inverse learning of molecular parameters of viscoelastic constitutive model"
+
+**"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**
+ Helped my supervisor to write comments for two papers on the topic of machine learning
+  
+  
+  
 
 Last updated: 06/20/2023

@@ -9,11 +9,12 @@ redirect_from:
 ---
   
 <!-- ## About Me -->
-I recently received the bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).
-### <span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>
+I recently received the bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).  
 
+###<span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>  
+  
 
-# Research Interests
+## Research Interests
         
 I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including but not limited to: 
 - Manipulation
@@ -24,21 +25,21 @@ I am generally interested in reinforcement learning(RL) and its application to r
 - Large Language Models for Robotic Control
 
 
-# Publications
+## Publications
 **MobiP: A Lightweight model for Driving Perception using MobileNet**  
-<font color=Blue>*Minghui Ye*</font>, Jinhua Zhang\*
+*<font color=Blue>Minghui Ye</font>*, Jinhua Zhang\*  
 Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
 
 **A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
-<font color=Blue>*Minghui Ye*</font>, Yuanqi Fan, Xue-Feng Yuan\*
+*<font color=Blue>Minghui Ye</font>*, Yuanqi Fan, Xue-Feng Yuan\*  
 Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[code]](https://github.com/yeminghui/Inv_learning)
 
 
 ## Technical Skills
 
-- **Programming Languages** <div style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</div>
-- **Robotics Hardware**     <div style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</div>
-- **Computer Vision**       <div style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</div>
+- **Programming Languages** <font style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</font>
+- **Robotics Hardware**     <font style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</font>
+- **Computer Vision**       <font style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</font>
 <ul>
     <li> 
         <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 

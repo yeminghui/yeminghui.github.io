@@ -61,7 +61,7 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 ## Extracurricular Activity
 **Speaker at the 20th National Conference on Physical Gas Dynamics**  
-*<font color=Blue; size=3>Minghui Ye</font>*, Jinhua Zhang\*  
+*<font color=Blue, size=3>Gave presentation on the work "inverse learning method for computing molecular parameters of viscoelastic constitutive model</font>*, Jinhua Zhang\*  
 <p>Gave presentation on the work "inverse learning method for computing molecular parameters of viscoelastic constitutive model"</p>  
   
 
@@ -73,4 +73,4 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 <br />
   
 
-Last updated: 06/20/2023
+Last updated: 06/20/2023 time.getMonth() 

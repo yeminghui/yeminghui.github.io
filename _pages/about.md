@@ -9,7 +9,7 @@ redirect_from:
 ---
   
 <!-- ## About Me -->
-I recently received the bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).  
+I recently received the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).  
 
 ### <span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>  
   
@@ -39,31 +39,32 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 <ul>
     <li> 
         <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
-        <span style="float:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</span> 
+        <span style="float:right;width:65%;">Python, C, MATLAB, LATEX</span> 
     </li>
     <li> 
         <span style="float:left;width:35%;"> <strong>Robotics Hardware</strong></span> 
-        <span style="float:right;width:65%;font-size: 16px;">ABB IRB 1600, Arduino, Raspberry Pi</span>
+        <span style="float:right;width:65%;">ABB IRB 1600, Arduino, Raspberry Pi</span>
     </li>
     <li>
-        <span style="float:left;width:35%;"><strong>Computer Vision</strong></span>
-        <span style="float:right;width:65%;font-size: 14px;">OpenCV, PyTorch, Tensorflow</span>
+        <span style="float:left;width:35%;"><strong>Machine Learning</strong></span>
+        <span style="float:right;width:65%;">OpenCV, PyTorch, Tensorflow</span>
     </li>
 </ul>
 
+[//]: # (font-size: 15px;)
 
 ## Honors and Awards
-- 12th National College Students Mathematics Competition(Third prize, Top 15%)  <font align="right">2020</font>
+- The Third prize in 12th National College Students Mathematics Competition
 - The Second-class Scholarship in Guangzhou University, twice
 - Guangzhou University Intelligent Manufacturing Innovation Program Membership 
 
 
 ## Extracurricular Activity
-**Speaker at the 20th National Conference on Physical Gas Dynamics**
- Gave presentation on the work "inverse learning of molecular parameters of viscoelastic constitutive model"
+**Speaker at the 20th National Conference on Physical Gas Dynamics**  
+ <font size=2> Gave presentation on the work "inverse learning of molecular parameters of viscoelastic constitutive model"</font>
 
-**"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**
- Helped my supervisor to write comments for two papers on the topic of machine learning
+**"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**  
+  <font size=2> Helped my supervisor to write comments for two papers on the topic of machine learning</font>
   
   
   

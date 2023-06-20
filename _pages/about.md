@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## About Me -->
 I recently received the bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in 06/2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).  
 
-###<span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>  
+### <span style="color:red">(Update June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>  
   
 
 ## Research Interests
@@ -37,17 +37,30 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 ## Technical Skills
 
-- **Programming Languages** <font style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</font>
-- **Robotics Hardware**     <font style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</font>
-- **Computer Vision**       <font style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</font>
+- **Programming Languages** <span style="text-align:right;width:65%;font-size: 15px;">Python, C, MATLAB, LATEX</span>
+- **Robotics Hardware**     <span style="text-align:right;width:65%;font-size: 15px;">ABB IRB 1600, Arduino, Raspberry Pi</span>
+- **Computer Vision**       <span style="text-align:right;width:65%;font-size: 15px;">OpenCV, PyTorch, Tensorflow</span>
+
+-   [ **Programming Languages**]{style="float:left;width:35%;"} [Python,
+    C/C++, Java, MATLAB,
+    LATEX]{style="float:right;width:65%;font-size: 14px;"}
+-   [ **Robotics Hardware**]{style="float:left;width:35%;"} [Fetch
+    mobile manipulator, KUKA iiwa 7 R800,
+    UR5e]{style="float:right;width:65%;font-size: 14px;"}
+-   [**Robotic Programming**]{style="float:left;width:35%;"} [ROS,
+    Gazebo, Rviz,
+    MoveIt!]{style="float:right;width:65%;font-size: 14px;"}
+-   [**Computer Vision**]{style="float:left;width:35%;"} [OpenCV,
+    PyTorch, Tensorflow]{style="float:right;width:65%;font-size: 14px;"}
+
 <ul>
     <li> 
         <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
-        <span style="float:right;width:65%;font-size: 14px;">Python, C/C++, Java, MATLAB, LATEX</span> 
+        <span style="float:right;width:65%;font-size: 15px;">Python, C/C++, Java, MATLAB, LATEX</span> 
     </li>
     <li> 
         <span style="float:left;width:35%;"> <strong>Robotics Hardware</strong></span> 
-        <span style="float:right;width:65%;font-size: 14px;">Fetch mobile manipulator, KUKA iiwa 7 R800, UR5e</span>
+        <span style="float:right;width:65%;font-size: 16px;">Fetch mobile manipulator, KUKA iiwa 7 R800, UR5e</span>
     </li>
     <li> 
         <span style="float:left;width:35%;"><strong>Robotic Programming</strong></span>
@@ -58,6 +71,7 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
         <span style="float:right;width:65%;font-size: 14px;">OpenCV, PyTorch, Tensorflow</span>
     </li>
 </ul>
+
 
 
 ## Honors and Awards

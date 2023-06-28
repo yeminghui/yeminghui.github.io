@@ -11,12 +11,14 @@ redirect_from:
 <!-- ## About Me -->
 I recently obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm).  
 
-### <span style="color:red">(Update on June 20, 2023) I am looking for PhD/RA positions. I can start working within a month.</span>  
+### <span style="color:red">(Update on June 20, 2023) I am looking for PhD/RA positions in Robotics/Reinforcement Learning/Visual Perception. I can start working within a month.</span>  
   
 
 ## Research Interests
         
-I am generally interested in reinforcement learning(RL) and its application to robotics. To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots](https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf). I am also open to related topics including but not limited to: 
+I am generally interested in visual perception, reinforcement learning(RL) and their application to robotics. 
+
+[//]: # (To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots]&#40;https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf&#41;. I am also open to related topics including but not limited to: )
 - Manipulation
 - Offline Reinforcement Learning
 - Reinforcement Learning from Human Feedback
@@ -60,7 +62,7 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 
 
 ## Extracurricular Activity
-**Speaker at the 20th National Conference on Physical Gas Dynamics**  
+**Presentation at the 20th National Conference on Physical Gas Dynamics**  
 *<font style="color:grey; font-size:3">Gave presentation on the work "inverse learning method for computing molecular parameters of viscoelastic constitutive model"</font>*
 
 **"Reviewer" at The 32nd International Ocean and Polar Engineering Conference**  
@@ -72,4 +74,4 @@ Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_gene
 <br />
   
 
-Last updated: 06/20/2023 
+Last updated: 06/28/2023 

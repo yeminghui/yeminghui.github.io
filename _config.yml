@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghui Ye"
+title                    : "Junxian He"
 title_separator          : "-"
-name                     : &name "Minghui Ye"
-description              : &description "Student"
-url                      : "https://yeminghui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Junxian He"
+description              : &description "personal description"
+url                      : "https://jxhe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yeminghui/yeminghui.github.io"
+repository               : "jxhe/jxhe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,16 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minghui Ye"
-  name2            : "叶明辉"
+  name             : "Junxian He"
+  name2            : "何俊贤"
   avatar           : "profile.jpg"
-  bio              : "B.E. in Guangzhou University"
-  location         : "Guangzhou, China"
+  bio              : "Incoming Assistant Professor at HKUST"
+  location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yeminghui1@gmail.com
-  cv               : https://yeminghui.github.io/files/CV-MinghuiYe.pdf
+  googlescholar    : "https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en"
+  email            : junxianh2@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yeminghui"
+  github           : "jxhe"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "junxian_he"
   vine             :
   weibo            :
   xing             :

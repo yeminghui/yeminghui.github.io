@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junxian He"
+title                    : "Minghui Ye"
 title_separator          : "-"
-name                     : &name "Junxian He"
-description              : &description "personal description"
-url                      : "https://jxhe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Minghui Ye"
+description              : &description "Student"
+url                      : "https://yeminghui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jxhe/jxhe.github.io"
+repository               : "yeminghui/yeminghui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junxian He"
-  name2            : "何俊贤"
+  name             : "Minghui Ye"
+  name2            : "叶明辉"
   avatar           : "profile.jpg"
-  bio              : "Incoming Assistant Professor at HKUST"
-  location         : "Shanghai, China"
+  bio              : "B.E. in Guangzhou University"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en"
-  email            : junxianh2@gmail.com
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : yeminghui1@gmail.com
+  cv               : https://yeminghui.github.io/files/CV-MinghuiYe.pdf
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxhe"
+  github           : "yeminghui"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "junxian_he"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

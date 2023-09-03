@@ -12,7 +12,7 @@ redirect_from:
 <!-- ## About Me -->
 I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), closely working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm) for over two years.  
 
-### <span style="color:red">(Updated on June 28, 2023) I am looking for PhD/RA positions in Robotics/Reinforcement Learning/Visual Perception, for which I can start working within a month.</span>  
+[//]: # (### <span style="color:red">&#40;Updated on June 28, 2023&#41; I am looking for PhD/RA positions in Robotics/Reinforcement Learning/Visual Perception, for which I can start working within a month.</span>  )
   
 
 ## Research Interests
@@ -35,7 +35,7 @@ Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightw
 
 **A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
 *<font color=Blue>Minghui Ye</font>*, Yuanqi Fan, Xue-Feng Yuan\*  
-Under Submission 2022. [[Paper]](https://yeminghui.github.io/assets/files/a_general_deep_learning_method_for_computing_molecular_parameters.pdf) [[code]](https://github.com/yeminghui/Inv_learning)
+Under Submission 2022. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](https://github.com/yeminghui/Inv_learning)
 
 
 ## Technical Skills

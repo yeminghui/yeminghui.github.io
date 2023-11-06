@@ -28,11 +28,11 @@ I am generally interested in Reinforcement Learning (RL) and their application t
 ## Publications
 **MobiP: A Lightweight model for Driving Perception using MobileNet**  
 *<font color=Blue>Minghui Ye</font>*, Jinhua Zhang\*  
-Preprint 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
+Frontiers in Neurorobotics 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
 
 **A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
 *<font color=Blue>Minghui Ye</font>*, Yuanqi Fan, Xue-Feng Yuan\*  
-Under Submission 2022. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](https://github.com/yeminghui/Inv_learning)
+Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](https://github.com/yeminghui/Inv_learning)
 
 
 ## Technical Skills

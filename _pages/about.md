@@ -17,7 +17,7 @@ I am a first-year PhD student in Heriot-Watt University. Before that, I obtained
 
 ## Research Interests
         
-I am generally interested in Reinforcement Learning(RL) and their application to Robotics. 
+I am generally interested in Reinforcement Learning (RL) and their application to Robotics. 
 
 [//]: # (To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots]&#40;https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf&#41;. I am also open to related topics including but not limited to: )
 - Reinforcement Learning
@@ -72,4 +72,4 @@ Under Submission 2022. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[co
 <br />
   
 
-Last updated: 07/05/2023 
+Last updated: 07/11/2023 

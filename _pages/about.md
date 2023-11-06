@@ -10,22 +10,19 @@ redirect_from:
 
 
 <!-- ## About Me -->
-I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm). Before that, I interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), closely working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm) for over two years.  
+I am a first-year PhD student in Heriot-Watt University. Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm).  I have also interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), closely working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm) for over two years.  
 
 [//]: # (### <span style="color:red">&#40;Updated on June 28, 2023&#41; I am looking for PhD/RA positions in Robotics/Reinforcement Learning/Visual Perception, for which I can start working within a month.</span>  )
   
 
 ## Research Interests
         
-I am generally interested in Visual Perception, Reinforcement Learning(RL) and their application to Robotics. 
+I am generally interested in Reinforcement Learning(RL) and their application to Robotics. 
 
 [//]: # (To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots]&#40;https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf&#41;. I am also open to related topics including but not limited to: )
-- Manipulation
-- Offline Reinforcement Learning
-- Reinforcement Learning from Human Feedback
+- Reinforcement Learning
+- Uncertainty Quantification
 - Vision-Based Control
-- Robot Perception
-- Large Language Models for Robotic Control
 
 
 ## Publications

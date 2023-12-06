@@ -10,7 +10,7 @@ redirect_from:
 
 
 <!-- ## About Me -->
-I am a first-year PhD student in Heriot-Watt University. Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm).  I have also interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), closely working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm) for over two years.  
+I am currently a first-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang](http://jd.gzhu.edu.cn/info/1150/4235.htm).  I have also interned the [Institute of System Rheology](http://isr.gzhu.edu.cn/), closely working with Prof. [Xue-Feng Yuan](http://isr.gzhu.edu.cn/info/1259/2240.htm) for over two years.  
 
 [//]: # (### <span style="color:red">&#40;Updated on June 28, 2023&#41; I am looking for PhD/RA positions in Robotics/Reinforcement Learning/Visual Perception, for which I can start working within a month.</span>  )
   
@@ -28,7 +28,7 @@ I am generally interested in Reinforcement Learning (RL) and their application t
 ## Publications
 **MobiP: A Lightweight model for Driving Perception using MobileNet**  
 *<font color=Blue>Minghui Ye</font>*, Jinhua Zhang\*  
-Frontiers in Neurorobotics 2023. [[Paper]](https://yeminghui.github.io/assets/files/MobiP_a_lightweight_model_for_driving_perception.pdf) 
+Frontiers in Neurorobotics 2023. [[Paper]](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1291875/full) [[code]](https://github.com/yeminghui/Mobip)
 
 **A general deep learning method for computing molecular parameters of viscoelastic constitutive model by solving an inverse problem**  
 *<font color=Blue>Minghui Ye</font>*, Yuanqi Fan, Xue-Feng Yuan\*  
@@ -72,4 +72,4 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 <br />
   
 
-Last updated: 07/11/2023 
+Last updated: 07/12/2023 

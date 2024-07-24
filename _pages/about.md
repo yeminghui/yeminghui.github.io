@@ -20,9 +20,9 @@ I am currently a first-year PhD student in Heriot-Watt University advised by [Ah
 I am generally interested in Reinforcement Learning (RL) and their application to Robotics. 
 
 [//]: # (To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots]&#40;https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf&#41;. I am also open to related topics including but not limited to: )
-- Reinforcement Learning
+- World Models
+- Multi-task Learning
 - Uncertainty Quantification
-- Vision-Based Control
 
 
 ## Publications
@@ -47,13 +47,14 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
     </li>
     <li>
         <span style="float:left;width:35%;"><strong>Machine Learning</strong></span>
-        <span style="float:right;width:65%;">OpenCV, PyTorch, Tensorflow</span>
+        <span style="float:right;width:65%;">Jax, PyTorch</span>
     </li>
 </ul>
 
 [//]: # (font-size: 15px;)
 
 ## Honors and Awards
+- Fully-funded PhD Scholarship in Heriot-Watt University
 - The Third prize in 12th National College Students Mathematics Competition
 - The Second-class Scholarship in Guangzhou University, twice
 - Guangzhou University Intelligent Manufacturing Innovation Award

@@ -10,7 +10,7 @@ redirect_from:
 
 
 <!-- ## About Me -->
-I am currently a second-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
+I am currently a third-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
 
 [//]: # (I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang]&#40;http://jd.gzhu.edu.cn/info/1150/4235.htm&#41;.  I have also interned the [Institute of System Rheology]&#40;http://isr.gzhu.edu.cn/&#41;, closely working with Prof. [Xue-Feng Yuan]&#40;http://isr.gzhu.edu.cn/info/1259/2240.htm&#41; for over two years.  )
 
@@ -28,6 +28,11 @@ I am generally interested in Reinforcement Learning (RL) and their application t
 
 
 ## Publications
+**Model-based reinforcement learning for active flow control**  
+*<font color=Blue>Minghui Ye</font>*, Ahmed H. Elsheikh
+Physics of Fluids 2025. [[Paper]](https://doi.org/10.1063/5.0287427) [[code]](https://github.com/gymprecice/mbrl)
+
+
 **MobiP: A Lightweight model for Driving Perception using MobileNet**  
 *<font color=Blue>Minghui Ye</font>*, Jinhua Zhang\*  
 Frontiers in Neurorobotics 2023. [[Paper]](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1291875/full) [[code]](https://github.com/yeminghui/Mobip)
@@ -75,4 +80,4 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 <br />
   
 
-Last updated: 03/03/2025
+Last updated: 12/03/2025

@@ -10,7 +10,7 @@ redirect_from:
 
 
 <!-- ## About Me -->
-I am currently a third-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robot Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
+I am currently a third-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robotics Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
 
 [//]: # (I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang]&#40;http://jd.gzhu.edu.cn/info/1150/4235.htm&#41;.  I have also interned the [Institute of System Rheology]&#40;http://isr.gzhu.edu.cn/&#41;, closely working with Prof. [Xue-Feng Yuan]&#40;http://isr.gzhu.edu.cn/info/1259/2240.htm&#41; for over two years.  )
 
@@ -19,19 +19,18 @@ I am currently a third-year PhD student in Heriot-Watt University advised by [Ah
 
 ## Research Interests
         
-I am generally interested in Reinforcement Learning (RL) and their application to Robotics. 
+I am generally interested in Reinforcement Learning (RL) and their applications. 
 
 [//]: # (To state my research plan and demonstrate my research skills, I wrote a **research proposal** on [Efficient Vision-Based Reinforcement Learning for Physical Robots]&#40;https://yeminghui.github.io/assets/files/Research_Proposal_Minghui_Ye.pdf&#41;. I am also open to related topics including but not limited to: )
 - World Models
-- Uncertainty Quantification
-- Optimization and Control
+- Model-based Planning
+- Diffusion Policy
 
 
 ## Publications
 **Model-based reinforcement learning for active flow control**  
 *<font color=Blue>Minghui Ye</font>*, Ahmed H. Elsheikh\
 Physics of Fluids 2025. [[Paper]](https://doi.org/10.1063/5.0287427) [[code]](https://github.com/gymprecice/mbrl)
-
 
 **MobiP: A Lightweight model for Driving Perception using MobileNet**  
 *<font color=Blue>Minghui Ye</font>*, Jinhua Zhang\
@@ -45,10 +44,6 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 ## Technical Skills
 <ul>
     <li> 
-        <span style="float:left;width:35%;"> <strong>Programming Languages</strong></span> 
-        <span style="float:right;width:65%;">Python, C, MATLAB, LATEX</span> 
-    </li>
-    <li> 
         <span style="float:left;width:35%;"> <strong>Robotics Hardware</strong></span> 
         <span style="float:right;width:65%;">ABB IRB 1600, Arduino, Raspberry Pi</span>
     </li>
@@ -60,7 +55,7 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 
 [//]: # (font-size: 15px;)
 
-## Honors and Awards
+<!-- ## Honors and Awards
 - Fully-funded PhD Scholarship in Heriot-Watt University
 - The Third prize in 12th National College Students Mathematics Competition
 - The Second-class Scholarship in Guangzhou University, twice
@@ -72,7 +67,7 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 *<font style="color:grey; font-size:3">Gave presentation on the work "inverse learning method for computing molecular parameters of viscoelastic constitutive model"</font>*
 
 **Sub-reviewer at The 32nd International Ocean and Polar Engineering Conference**  
-*<font style="color:grey; font-size:1">Helped the professor review two papers on the topic of machine learning</font>* 
+*<font style="color:grey; font-size:1">Helped the professor review two papers on the topic of machine learning</font>*  -->
  
   
 <br />
@@ -80,4 +75,4 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 <br />
   
 
-Last updated: 12/03/2025
+Last updated: 12/07/2026

@@ -10,7 +10,9 @@ redirect_from:
 
 
 <!-- ## About Me -->
-I am currently a third-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robotics Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
+I am currently a final-year PhD student in Heriot-Watt University advised by [Ahmed H. Elsheikh](https://ai4netzero.github.io/). Before that, I obtained the Bachelor degree in Robotics Engineering from [Guangzhou University](http://www.gzhu.edu.cn/) in June 2023. 
+
+### <span style="color:red">(Updated on September 3, 2026) I am looking for a research internship in reinforcement learning and can start at any time.</span>
 
 [//]: # (I completed my thesis on driving perception in the Intelligent Vehicle Laboratory, advised by Prof. [Jinhua Zhang]&#40;http://jd.gzhu.edu.cn/info/1150/4235.htm&#41;.  I have also interned the [Institute of System Rheology]&#40;http://isr.gzhu.edu.cn/&#41;, closely working with Prof. [Xue-Feng Yuan]&#40;http://isr.gzhu.edu.cn/info/1259/2240.htm&#41; for over two years.  )
 
@@ -75,4 +77,4 @@ Polymers 2023. [[Paper]](https://www.mdpi.com/2073-4360/15/17/3592) [[code]](htt
 <br />
   
 
-Last updated: 12/07/2026
+Last updated: 03/09/2026
